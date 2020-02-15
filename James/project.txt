@@ -1,0 +1,9 @@
+https://www.kaggle.com/c/unimelb/overview/description
+Nice introductory project where we will be able to learn
+basic training techniques. Dataset is given, so it limits our scope automatically. Doesn't require any intimate understanding of different models. Dependent variable is
+
+https://www.kaggle.com/c/stayalert/overview
+Similarly to above
+
+https://www.kaggle.com/c/DontGetKicked/overview
+This project will add in learning how to process missing values. Despite this we are just looking for a binary classification.
